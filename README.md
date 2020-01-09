@@ -1,2 +1,0 @@
-# NigerianHighlife
-Created with CodeSandbox
